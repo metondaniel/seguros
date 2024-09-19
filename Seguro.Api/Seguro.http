@@ -1,0 +1,6 @@
+@Seguro_HostAddress = http://localhost:5058
+
+GET {{Seguro_HostAddress}}/seguro/
+Accept: application/json
+
+###
